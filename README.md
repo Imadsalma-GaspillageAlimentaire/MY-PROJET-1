@@ -1,2 +1,2 @@
-# MY-PROJET
+# MYPROJET
 this is test rep
